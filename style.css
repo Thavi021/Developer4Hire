@@ -130,7 +130,7 @@ ul li a:hover{
 
 .scrollable-textbox {
     width: 900px; /* Adjust the width as needed */
-    height: 380px; /* Adjust the height as needed */
+    height: 320px; /* Adjust the height as needed */
     overflow: auto; /* Enable scrollbars when content overflows */
     padding: 10px; /* Add padding inside the text box */
    font-size:19px;
