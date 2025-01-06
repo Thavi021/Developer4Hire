@@ -133,7 +133,7 @@ ul li a:hover{
     height: 150px; /* Adjust the height as needed */
     overflow: auto; /* Enable scrollbars when content overflows */
     padding: 10px; /* Add padding inside the text box */
-   
+   font-size:25px;
     font-family: Arial, sans-serif; /* Set the font */
     padding-left: 20px;
     padding-bottom: 25px;
